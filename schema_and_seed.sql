@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS Ecommerce_SQL_Database;
 USE Ecommerce_SQL_Database;
 
 -- 1. Customers Table
-CREATE TABLE customers (
+CREATE TABLE customers ( 
     customer_id INT AUTO_INCREMENT PRIMARY KEY,
     customer_name VARCHAR(100) NOT NULL,
     city VARCHAR(50),
