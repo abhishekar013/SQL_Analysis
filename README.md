@@ -2,7 +2,7 @@
 # Task 3: SQL for Data Analysis
 
 ## Objective
-Extract, transform, and analyze relational data from an e-commerce database (`Ecommerce_SQL_Database`) using MySQL.
+Extract, transform, and analyze relational data from an e-commerce database (`Ecommerce_SQL_Database`) using MySQL.  
 
 ## Files Included
 1. **`schema_and_seed.sql`**: Database setup script defining tables (`customers`, `products`, `orders`, `order_items`) and dummy insert data.
