@@ -3,7 +3,7 @@
 
 ## Objective
 Extract, transform, and analyze relational data from an e-commerce database (`Ecommerce_SQL_Database`) using MySQL.  
-
+ 
 ## Files Included
 1. **`schema_and_seed.sql`**: Database setup script defining tables (`customers`, `products`, `orders`, `order_items`) and dummy insert data.
 2. **`analysis_queries.sql`**: Comprehensive query script covering filtering, grouping, joins, subqueries, aggregates, view creation, and index optimization.
