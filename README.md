@@ -1,6 +1,6 @@
 # SQL_Analysis
 # Task 3: SQL for Data Analysis 
-
+ 
 ## Objective 
 Extract, transform, and analyze relational data from an e-commerce database (`Ecommerce_SQL_Database`) using MySQL.   
     
