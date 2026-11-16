@@ -1,7 +1,7 @@
 USE Ecommerce_SQL_Database;
 
 -- ==========================================
--- A. SELECT, WHERE, ORDER BY, GROUP BY
+-- A. SELECT, WHERE, ORDER BY, GROUP BY 
 -- ==========================================
 -- Find total revenue generated per product category, ordered highest to lowest
 SELECT 
