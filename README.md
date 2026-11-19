@@ -14,3 +14,4 @@ Extract, transform, and analyze relational data from an e-commerce database (`Ec
 * **Advanced Queries**: Correlated/Derived Subqueries and `HAVING` clauses
 * **Database Views**: Created reusable analytical views (`vw_customer_summary`)
 * **Performance Tuning**: Created indexes (`idx_orders_date`, `idx_products_category`) to optimize execution speed.
+ 
